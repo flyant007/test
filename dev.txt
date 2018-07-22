@@ -3,3 +3,4 @@ A:dev branch add 2
 =======
 B:dev branch add 1
 >>>>>>> 12f6da4dbf70d709c2731045860058337c144eeb
+A:master add 3
